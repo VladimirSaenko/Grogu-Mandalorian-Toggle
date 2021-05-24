@@ -30,7 +30,7 @@ function activateMando() {
 
 const countDate = new Date('may 4, 2022 10:00:00').getTime();
 
-function newYear() {
+function may4th() {
     const nowDate = new Date().getTime();
     let gap = countDate - nowDate;
 
@@ -40,4 +40,4 @@ function newYear() {
     }
 }
 
-setInterval(newYear(), 1);
+setInterval(may4th(), 1);
