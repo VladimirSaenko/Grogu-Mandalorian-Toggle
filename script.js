@@ -1,5 +1,5 @@
 
-"use strict"
+"use strict";
 
 let mando = document.getElementById("mando");
 let container = document.getElementById("container");
@@ -33,7 +33,6 @@ const countDate = new Date('may 4, 2022 10:00:00').getTime();
 function may4th() {
     const nowDate = new Date().getTime();
     let gap = countDate - nowDate;
-
     if(gap <= 0) {
         waySpan.innerText = "may the 4th be with you";
         waySpan.style.transition = "1s";
