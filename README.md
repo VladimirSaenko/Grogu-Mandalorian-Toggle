@@ -2,7 +2,7 @@
  
 ### Переключатель в виде Грогу(Малыша Йоды), показывающий шлем Мандалорца(Мандо)
 
-## Porfolio-3 {
+## Portfolio {
 
 ### https://vladimirsaenko.github.io/Portfolio-3/sites/site-13/Grogu-Mandalorian-Toggle/index.html
 
