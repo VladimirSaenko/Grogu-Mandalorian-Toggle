@@ -62,9 +62,3 @@
     text-transform: uppercase;
     transition: 0s;
 }
-
-.way-span:hover {
-    text-decoration: underline;
-    color: white;
-    transition: 0s;
-}
