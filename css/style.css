@@ -29,8 +29,8 @@
     visibility: hidden;
     position: absolute;
     color: rgb(177, 175, 175);
-    bottom: 40%;
-    font-size: 35px;
+    bottom: 0;
+    font-size: 20px;
     text-transform: uppercase;
     transition: 0s;
 }
